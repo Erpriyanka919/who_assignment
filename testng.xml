@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="who-academy">
+
+<parameter name = "browser" value ="chrome"></parameter>
+  <test name="Assignement1
+  ">
+  <classes>
+ <class name = "com.assignment_1.testscripts.AddRemoveElementsScript"></class>
+ </classes>
+  </test> <!-- Assignement1 -->
+</suite> 
