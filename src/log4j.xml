@@ -6,7 +6,7 @@
 	   
 	    <param name = "maxFileSize" value = "1MB"/>
 	    <param name ="MaxBackupIndex" value ="2"/>
-	    <param name = "File" value = "Assignement1.log" />
+	    <param name = "File" value = "Assignement2.log" />
 	     <layout class="org.apache.log4j.PatternLayout">
 		<param name="ConversionPattern" 
 		  value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n" />
